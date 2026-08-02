@@ -1,16 +1,98 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammad Bilal
 
-<!--
-**Bilal-300527/Bilal-300527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 MERN Stack & Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a passionate web developer who enjoys building responsive and user-friendly web applications. I'm continuously learning new technologies and improving my problem-solving skills. My goal is to become a professional Full Stack Developer and contribute to real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **MERN Stack Development**
+* 💻 Skilled in Front-End Development
+* 📱 Exploring Mobile App Development
+* 🔧 Building responsive and modern web applications
+* 🎯 Interested in Full Stack Development, AI, and Web Technologies
+* 📍 Based in Karachi, Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Bootstrap
+* React.js
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* npm
+
+---
+
+## 📂 Featured Projects
+
+### 📝 Todo App
+
+A responsive Todo List application with Local Storage support.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### 👨‍💼 Portfolio Website
+
+A modern responsive portfolio website showcasing my skills and projects.
+
+**Tech:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🧮 Calculator
+
+A simple calculator built using HTML, CSS, and JavaScript.
+
+---
+
+## 📈 Currently Learning
+
+* Advanced React.js
+* Express.js
+* MongoDB
+* REST APIs
+* Authentication (JWT)
+* Deployment
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/your-username
+* LinkedIn: https://linkedin.com/in/your-profile
+* Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+⭐ Thanks for visiting my profile! Don't forget to check out my repositories and leave a ⭐ if you like my work.
+
