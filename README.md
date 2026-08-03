@@ -1,98 +1,198 @@
-# Hi 👋, I'm Mohammad Bilal
+# 👋 Hi, I'm Mohammad Bilal
 
-### 💻 MERN Stack & Full Stack Web Developer
+## 💻 MERN Stack & Full Stack Web Developer
 
-I'm a passionate web developer who enjoys building responsive and user-friendly web applications. I'm continuously learning new technologies and improving my problem-solving skills. My goal is to become a professional Full Stack Developer and contribute to real-world projects.
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning **MERN Stack Development**
-* 💻 Skilled in Front-End Development
-* 📱 Exploring Mobile App Development
-* 🔧 Building responsive and modern web applications
-* 🎯 Interested in Full Stack Development, AI, and Web Technologies
-* 📍 Based in Karachi, Pakistan
+Passionate about building modern, responsive, and user-friendly web applications. I enjoy solving real-world problems through code and continuously learning new technologies to become a professional Full Stack Developer.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Bootstrap
-* React.js
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* npm
+- 🌱 Currently learning **MERN Stack Development**
+- 💻 Passionate about Full Stack Web Development
+- ⚛️ Building responsive and interactive web applications
+- 📱 Exploring Mobile App Development
+- 🤖 Interested in AI, Web Technologies, and Software Development
+- 🎯 Focused on writing clean, maintainable, and scalable code
+- 📍 Karachi, Pakistan
 
 ---
 
-## 📂 Featured Projects
+# 🛠️ Tech Stack
 
-### 📝 Todo App
+## 🎨 Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- React.js
+
+## ⚙️ Backend
+
+- Node.js
+- Express.js
+
+## 🗄️ Database
+
+- MongoDB
+
+## 🧰 Tools
+
+- Git
+- GitHub
+- VS Code
+- npm
+- Postman
+
+---
+
+# 📂 Featured Projects
+
+## 📝 Todo App
 
 A responsive Todo List application with Local Storage support.
 
-**Tech:** HTML, CSS, JavaScript
+### Features
+
+- Add Tasks
+- Edit Tasks
+- Delete Tasks
+- Mark as Completed
+- Local Storage
+- Responsive UI
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-### 👨‍💼 Portfolio Website
+## 👨‍💻 Portfolio Website
 
-A modern responsive portfolio website showcasing my skills and projects.
+A modern personal portfolio website showcasing my skills, projects, and contact information.
 
-**Tech:** HTML, CSS, JavaScript, Bootstrap
+### Features
 
----
+- Responsive Design
+- Smooth Scrolling
+- Animated Sections
+- Contact Form
 
-### 🧮 Calculator
+**Tech Stack**
 
-A simple calculator built using HTML, CSS, and JavaScript.
-
----
-
-## 📈 Currently Learning
-
-* Advanced React.js
-* Express.js
-* MongoDB
-* REST APIs
-* Authentication (JWT)
-* Deployment
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
 ---
 
-## 📫 Connect With Me
+## 🧮 Calculator
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+A clean and responsive calculator with basic arithmetic operations.
 
----
+**Tech Stack**
 
-## 💡 Quote
-
-> "Code. Learn. Build. Repeat."
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-⭐ Thanks for visiting my profile! Don't forget to check out my repositories and leave a ⭐ if you like my work.
+# 🌱 Currently Learning
+
+- Advanced React.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+- Firebase
+- Deployment
+- Next.js
+
+---
+
+# 🎯 Goals
+
+- ✅ Become a Professional MERN Stack Developer
+- ✅ Build 20+ Real-World Projects
+- ✅ Learn Next.js & TypeScript
+- ✅ Contribute to Open Source
+- ✅ Get a Software Developer Job
+
+---
+
+# 💼 Services
+
+- Responsive Website Development
+- Frontend Development
+- MERN Stack Development
+- Landing Pages
+- Portfolio Websites
+- Bug Fixing
+- Website Redesign
+
+---
+
+# 📊 GitHub Stats
+
+- 📌 Public Repositories
+- ⭐ Stars
+- 🔥 Contributions
+- 📈 Continuous Learning
+
+---
+
+# 💡 Skills
+
+- Responsive Web Design
+- Problem Solving
+- Git & GitHub
+- REST APIs
+- Team Collaboration
+- Clean Code
+- Front-End Development
+- Full Stack Development
+
+---
+
+# 📚 What I'm Working On
+
+- MERN Stack Projects
+- React Applications
+- REST APIs
+- Portfolio Improvements
+- Learning Backend Development
+
+---
+
+# 📫 Connect With Me
+
+- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+- **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- **Portfolio:** https://your-portfolio.vercel.app
+- **Email:** youremail@gmail.com
+
+---
+
+# 🌟 Fun Fact
+
+💡 I enjoy turning ideas into real-world web applications and continuously improving my development skills.
+
+---
+
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+# ⭐ Support
+
+If you like my work, don't forget to ⭐ star my repositories and follow me on GitHub.
+
+Thank you for visiting my profile! 🚀
 
