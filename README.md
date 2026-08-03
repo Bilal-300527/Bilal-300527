@@ -171,10 +171,10 @@ A clean and responsive calculator with basic arithmetic operations.
 
 # 📫 Connect With Me
 
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- **GitHub:** https://github.com/Bilal-300527
+- **LinkedIn:** https://www.linkedin.com/in/mohammad-bilal-998898384/
 - **Portfolio:** https://your-portfolio.vercel.app
-- **Email:** youremail@gmail.com
+- **Email:** m.bilal300527@gmail.com
 
 ---
 
