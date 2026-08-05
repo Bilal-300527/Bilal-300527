@@ -114,15 +114,25 @@
 
 ---
 
-# 📊 GitHub Stats
+
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=3b82f6&icon_color=22d3ee&text_color=f4f4f7" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=3b82f6&text_color=f4f4f7" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-300527&theme=tokyonight&hide_border=true&background=0a0a0b&ring=3b82f6&fire=22d3ee&currStreakLabel=3b82f6" height="180"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-300527&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bilal-300527&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
