@@ -1,47 +1,42 @@
-<div align="center">
-
 # Hi 👋, I'm Mohammad Bilal
 
-### MERN Stack & Full Stack Developer
+### 🚀 Future Full Stack Developer | Front-End Developer
 
-**Passionate about Building Modern Web Applications**
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Learning+Backend+Development+%26+Mobile+App+Development" alt="Typing SVG" />
+**Passionate about Building Modern, Responsive & User-Friendly Web Applications**
 
 📍 Karachi, Pakistan
 
-</div>
+---
+
+## 🔗 Connect With Me
+
+* 📧 **Email:** [m.bilal300527@gmail.com](mailto:m.bilal300527@gmail.com)
+* 📱 **Phone:** +92 303 2378220
+* 📍 **Location:** Karachi, Pakistan
 
 ---
 
-## 🔗 Connect with me
+# 👨‍💻 About Me
 
-<div align="center">
+Hello! I'm **Mohammad Bilal**, an enthusiastic and motivated **Future Full Stack Developer** with a strong passion for web development and modern technologies.
 
-<a href="https://github.com/Bilal-300527" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+I currently have a strong foundation in **Front-End Development**, including HTML5, CSS3, JavaScript, Bootstrap, Git & GitHub, and responsive web design.
 
-<a href="https://www.linkedin.com/in/mohammad-bilal-966499379/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+I enjoy creating **clean, responsive, and user-friendly websites** and I'm continuously expanding my knowledge toward **Full Stack Development**.
 
-<a href="mailto:m.bilal300527@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+My goal is to become a professional **Full Stack Developer** capable of building complete, scalable, and modern web applications from frontend to backend.
 
-</div>
-
----
-
-# 🚀 About Me
-
-- 💻 MERN Stack & Full Stack Developer.
-- 🌱 Currently learning Backend Development and Mobile Application Development.
-- 🎨 Skilled in creating responsive and user-friendly web applications.
-- 🚀 Passionate about JavaScript, React, and modern web technologies.
-- 📚 Always learning new technologies and improving my development skills.
-- 🤝 Open to internships, freelance projects, and collaboration.
+* 💻 Future Full Stack Developer
+* 🎨 Strong foundation in Front-End Development
+* 🌐 Skilled in HTML5, CSS3, JavaScript & Bootstrap
+* 📱 Interested in Responsive Web Development
+* 🔧 Familiar with Git & GitHub
+* 🖥️ Experience with Office Automation
+* 🎨 Knowledge of Graphic Designing
+* 🌱 Currently learning Backend Development
+* 🚀 Interested in modern web technologies
+* 🤝 Open to internships, freelance projects & collaboration
+* 📚 Always learning and improving my development skills
 
 ---
 
@@ -50,108 +45,275 @@
 ### 🎨 Frontend
 
 <p>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Responsive Web Design
+* User-Friendly UI Interfaces
 
 ---
 
 ### ⚙️ Backend
 
 <p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+* Currently Learning Backend Development
+* Node.js
+* Express.js
+* Building knowledge toward Full Stack Development
 
 ---
 
 ### 🗄️ Database
 
 <p>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
+
+* Currently exploring database technologies
+* MongoDB as part of my Full Stack learning journey
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
 <p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+* Git
+* GitHub
+* VS Code
+* Office Automation
+* MS Word
+* MS Excel
+* Documentation
+* Computer Fundamentals
+
+---
+
+# 💼 Work Experience
+
+## 🏢 Nek Soft Company — Software House
+
+**Duration:** 4–5 Months
+**Year:** 2024–2025
+
+During my time at Nek Soft Company, I gained practical exposure to a professional software house environment.
+
+### Responsibilities & Experience
+
+* 💻 Worked on real-world projects
+* 🌐 Learned Front-End Development and web technologies
+* 🧱 Practiced HTML, CSS, JavaScript and Bootstrap
+* 🧠 Improved problem-solving skills through project-based tasks
+* 🤝 Gained experience working in a professional team environment
+* 🔄 Learned professional development workflows
+
+---
+
+# 🎓 Education
+
+## 🏫 Intermediate — Pre-Engineering
+
+**Bahria College NORE-1 Karachi**
+
+**2010–2026**
+
+---
+
+# 📚 Technical Qualification
+
+## Saylani Mass IT Training
+
+Currently pursuing web development training.
+
+### Learning:
+
+* 🌐 Front-End Development
+* ⚙️ Back-End Development
+* 🚀 Modern Web Development
+* 💻 Web Technologies
+* 📱 Future Full Stack Development
 
 ---
 
 # 📂 Featured Projects
 
-- 🌐 Personal Portfolio Website
-- ✅ Todo Application
-- 🧮 Calculator
-- 💰 Expense Tracker
-- 🛒 E-Commerce Website
-- 📱 Responsive Landing Pages
+Here are some of the projects I have worked on or practiced while developing my skills:
+
+### 🌐 Personal Portfolio Website
+
+A responsive personal portfolio website showcasing my skills, projects, and developer journey.
+
+**Technologies:**
+HTML5 • CSS3 • JavaScript • Bootstrap
 
 ---
 
+### ✅ Todo Application
 
+A simple and responsive Todo application for managing daily tasks.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-300527&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bilal-300527&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
+**Technologies:**
+HTML5 • CSS3 • JavaScript
 
 ---
 
-## 🎯 Current Goals
+### 🧮 Calculator
 
-- 🚀 Master the MERN Stack
-- 📱 Learn React Native
-- ☁️ Explore Cloud Technologies
-- 🤖 Learn AI & Modern Web Development
-- 💼 Contribute to Open Source Projects
+A functional calculator interface created to practice JavaScript logic and UI development.
+
+**Technologies:**
+HTML5 • CSS3 • JavaScript
 
 ---
 
-<div align="center">
+### 💰 Expense Tracker
 
-### 💡 "Code • Learn • Build • Repeat"
+A web-based expense tracker designed to practice JavaScript functionality and user interface development.
 
-⭐ If you like my work, consider following me and starring my repositories.
+**Technologies:**
+HTML5 • CSS3 • JavaScript
 
-</div>
+---
+
+### 🛒 E-Commerce Website
+
+A responsive e-commerce website project focused on practicing modern layouts, responsive design, and user-friendly interfaces.
+
+**Technologies:**
+HTML5 • CSS3 • JavaScript • Bootstrap
+
+---
+
+### 📱 Responsive Landing Pages
+
+Responsive landing page projects created to improve frontend development and responsive design skills.
+
+**Technologies:**
+HTML5 • CSS3 • Bootstrap • JavaScript
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=tokyonight" alt="Mohammad Bilal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-300527&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilal-300527&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 📈 My Developer Journey
+
+```text
+HTML5
+  ↓
+CSS3
+  ↓
+JavaScript
+  ↓
+Bootstrap
+  ↓
+Git & GitHub
+  ↓
+Front-End Development
+  ↓
+Backend Development
+  ↓
+Databases
+  ↓
+Full Stack Development 🚀
+```
+
+---
+
+# 🎯 Current Goals
+
+* 🚀 Become a professional Full Stack Developer
+* 💻 Master modern Front-End Development
+* ⚙️ Strengthen Backend Development skills
+* 🗄️ Learn and work with databases
+* 📱 Explore Mobile Application Development
+* 🤖 Learn AI and modern web technologies
+* ☁️ Explore Cloud Technologies
+* 🧩 Build real-world full stack projects
+* 🌍 Contribute to Open Source
+* 💼 Gain professional experience in the IT industry
+
+---
+
+# 🌱 Currently Learning
+
+```javascript
+const currentlyLearning = [
+  "Front-End Development",
+  "Backend Development",
+  "Full Stack Development",
+  "Modern Web Technologies",
+  "Responsive Web Design",
+  "Git & GitHub"
+];
+```
+
+---
+
+# 💡 My Philosophy
+
+> **"Code • Learn • Build • Improve • Repeat"**
+
+I believe that consistent learning, practical projects, and real-world experience are the keys to becoming a better developer.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+* 💼 Internship opportunities
+* 🚀 Freelance projects
+* 🤝 Collaboration
+* 🌐 Web development projects
+* 📚 Learning opportunities
+* 💻 Open-source contributions
+
+Feel free to connect with me and let's build something amazing together! 🚀
+
+---
+
+# ⭐ Support My Work
+
+If you like my projects, consider:
+
+⭐ Starring my repositories
+👤 Following my GitHub
+🤝 Connecting with me
+🚀 Sharing my work
+
+---
+
+<p align="center">
+
+### 🚀 Future Full Stack Developer
+
+**Building Today • Learning Tomorrow • Creating the Future**
+
+</p>
