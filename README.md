@@ -11,7 +11,7 @@
 ## 🔗 Connect with me
 
 * **GitHub:** https://github.com/Bilal-300527
-* **LinkedIn:** https://www.linkedin.com/in/mohammad-b
+* **LinkedIn:** (https://www.linkedin.com/in/mohammad-bilal-998898384/)
 * **Email:** [m.bilal300527@gmail.com](mailto:m.bilal300527@gmail.com)
 
 ---
