@@ -55,13 +55,33 @@
 * 🧮 **Calculator App** — Clean, logic-based web project.
 
 ---
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=radial)
+  <!-- Overall GitHub Stats -->
+  <a href="https://github.com/Bilal-300527">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Mohammad Bilal's GitHub Stats" />
+  </a>
+
+  <!-- Top Used Languages -->
+  <a href="https://github.com/Bilal-300527">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=6" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Bilal-300527">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-300527&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Dynamic GitHub Trophies -->
+  <a href="https://github.com/Bilal-300527">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bilal-300527&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 
 </div>
 
