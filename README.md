@@ -1,142 +1,84 @@
 # Hi 👋, I'm Mohammad Bilal
 
-### Future Full Stack Developer
+<div align="center">
 
-**Passionate about Building Modern Web Applications**
+### 🚀 Future Full Stack Developer | Front-End Specialist
 
-📍 Karachi, Pakistan
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-bilal-998898384/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.bilal300527@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-300527)
 
----
+📍 **Karachi, Pakistan**
 
-## 🔗 Connect with me
-
-* **GitHub:** https://github.com/Bilal-300527
-* **LinkedIn:** (https://www.linkedin.com/in/mohammad-bilal-998898384/)
-* **Email:** [m.bilal300527@gmail.com](mailto:m.bilal300527@gmail.com)
+</div>
 
 ---
 
-# 🚀 About Me
+### 👨‍💻 About Me
 
-* 💻 Future Full Stack Developer.
-* 🌱 Currently learning Front-End and Back-End Development.
-* 🎨 Skilled in creating responsive and user-friendly websites.
-* 🚀 Passionate about JavaScript and modern web technologies.
-* 🛠️ Experienced with HTML5, CSS3, Bootstrap, Git & GitHub.
-* 💡 Interested in building real-world web applications.
-* 📚 Always learning new technologies and improving my development skills.
-* 🤝 Open to internships, freelance projects, and collaboration.
+* 💻 Aspiring **Full Stack Developer** with a solid foundation in front-end web design.
+* 🎓 Pursuing **Pre-Engineering** at Bahria College NORE-1 (2024–2026).
+* 📜 Enrolled in Web & App Development at **Saylani Mass IT Training (SMIT)**.
+* 🛠️ Hands-on industry experience working on real-world projects at **Nek Soft Company**.
+* 🎨 Passionate about building responsive, user-friendly UI interfaces and interactive web applications.
+* 🤝 Open to internships, freelance projects, and open-source collaborations.
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-### 🎨 Frontend
+**Frontend Development**
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `Bootstrap` • `Responsive Design`
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Responsive Web Design
-* Friendly UI Interfaces
+**Backend & Database (Currently Learning)**
+`Node.js` • `Express.js` • `MongoDB`
 
----
-
-### ⚙️ Backend
-
-* Currently Learning Backend Development
-* Node.js
-* Express.js
+**Tools & Workflows**
+`Git` • `GitHub` • `VS Code` • `MS Office / Automation`
 
 ---
 
-### 🗄️ Database
+### 💼 Work Experience
 
-* Currently Learning Database Technologies
-* MongoDB
-
----
-
-### 🛠️ Tools
-
-* Git
-* GitHub
-* VS Code
-* MS Word
-* MS Excel
-* Office Automation
+**Front-End Intern / Developer** — *Nek Soft Company (Software House)*  
+*Worked 4–5 Months on production-level projects.*
+* Developed responsive layouts using HTML5, CSS3, JavaScript, and Bootstrap.
+* Collaborated with team members, improving overall software workflow and problem-solving skills.
 
 ---
 
-# 💼 Work Experience
+### 📂 Featured Projects
 
-### 🏢 Nek Soft Company — Software House
-
-**Duration: 4–5 Months | 2024–2025**
-
-* 💻 Worked in a software house environment.
-* 🌐 Worked on real-world projects.
-* 🛠️ Practiced HTML, CSS, JavaScript, and Bootstrap.
-* 🧠 Improved problem-solving skills.
-* 🤝 Gained experience in teamwork and professional workflow.
-* 🚀 Learned front-end development and modern web technologies.
+* 🌐 **Personal Portfolio Website** — Responsive personal showcase built with modern web technologies.
+* 🛒 **E-Commerce Platform / Landing Pages** — Interactive layouts focused on clean UI/UX.
+* 💰 **Expense Tracker & Todo App** — Utility applications practicing JavaScript DOM manipulation and state management.
+* 🧮 **Calculator App** — Clean, logic-based web project.
 
 ---
 
-# 🎓 Education
+### 📊 GitHub Stats
 
-### 🏫 Intermediate | Pre-Engineering
+<div align="center">
 
-**Bahria College NORE-1 Karachi**
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=radial)
 
-**2010–2026**
-
----
-
-# 📚 Technical Qualification
-
-### Saylani Mass IT Training
-
-* 🌐 Learning Front-End Development.
-* ⚙️ Learning Back-End Development.
-* 💻 Learning Web Development.
-* 🚀 Working toward Full Stack Development.
+</div>
 
 ---
 
-# 📂 Featured Projects
+### 🎯 Current Goals
 
-* 🌐 Personal Portfolio Website
-* ✅ Todo Application
-* 🧮 Calculator
-* 💰 Expense Tracker
-* 🛒 E-Commerce Website
-* 📱 Responsive Landing Pages
+* 🚀 Master Full Stack Web Development (MERN Stack).
+* 📱 Explore Mobile App Development with React Native.
+* 🌍 Actively contribute to open-source software.
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
----
+💡 *"Code • Learn • Build • Repeat"*
 
-# 🏆 GitHub Trophies
+⭐ *Feel free to explore my repositories and drop a star if you like my work!*
 
----
-
-# 🎯 Current Goals
-
-* 🚀 Become a Professional Full Stack Developer
-* 💻 Master Front-End Development
-* ⚙️ Improve Backend Development Skills
-* 🗄️ Learn Database Management
-* 📱 Learn React Native
-* ☁️ Explore Cloud Technologies
-* 🤖 Learn AI & Modern Web Development
-* 💼 Gain Professional IT Experience
-* 🌍 Contribute to Open Source Projects
-
----
-
-### 💡 "Code • Learn • Build • Repeat"
-
-⭐ If you like my work, consider following me and starring my repositories.
+</div>
