@@ -1,104 +1,160 @@
-# Hi 👋, I'm Mohammad Bilal
-
 <div align="center">
 
-### 🚀 Future Full Stack Developer | Front-End Specialist
+# 👋 Hi, I'm Mohammad Bilal
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-bilal-998898384/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.bilal300527@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-300527)
+### 💻 Frontend Web Developer | Future Full Stack Developer
 
-📍 **Karachi, Pakistan**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Learning+JavaScript+%26+Web+Development;Future+MERN+Stack+Developer;Building+Responsive+Websites;Always+Learning+New+Technologies" />
+
+📍 Karachi, Pakistan
+
+<img src="https://komarev.com/ghpvc/?username=Hassaan-Mahmood&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 🚀 About Me
 
-* 💻 Aspiring **Full Stack Developer** with a solid foundation in front-end web design.
-* 🎓 Pursuing **Pre-Engineering** at Bahria College NORE-1 (2024–2026).
-* 📜 Enrolled in Web & App Development at **Saylani Mass IT Training (SMIT)**.
-* 🛠️ Hands-on industry experience working on real-world projects at **Nek Soft Company**.
-* 🎨 Passionate about building responsive, user-friendly UI interfaces and interactive web applications.
-* 🤝 Open to internships, freelance projects, and open-source collaborations.
+💻 Frontend Web Developer
 
----
+📚 Currently learning Web & App Development at **SMIT**
 
-### 🛠️ Tech Stack & Tools
+🎯 Goal: Become a Professional Full Stack Developer
 
-**Frontend Development**
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `Bootstrap` • `Responsive Design`
+🌱 Learning JavaScript, Git & GitHub
 
-**Backend & Database (Currently Learning)**
-`Node.js` • `Express.js` • `MongoDB`
+💡 Passionate about creating responsive and modern websites.
 
-**Tools & Workflows**
-`Git` • `GitHub` • `VS Code` • `MS Office / Automation`
+📍 Karachi, Pakistan
 
 ---
 
-### 💼 Work Experience
+# 🌐 Connect With Me
 
-**Front-End Intern / Developer** — *Nek Soft Company (Software House)*  
-*Worked 4–5 Months on production-level projects.*
-* Developed responsive layouts using HTML5, CSS3, JavaScript, and Bootstrap.
-* Collaborated with team members, improving overall software workflow and problem-solving skills.
+<p align="center">
+
+<a href="(https://my-portfolio-bilal-2646.vercel.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-22D3EE?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+</a>
+<a href="(https://www.linkedin.com/in/mohammad-bilal-998898384/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/ali.huzaifa.988" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="mailto:m.bilal300527@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+
+</p>
 
 ---
 
-### 📂 Featured Projects
+# 🛠 Tech Stack
 
-* 🌐 **Personal Portfolio Website** — Responsive personal showcase built with modern web technologies.
-* 🛒 **E-Commerce Platform / Landing Pages** — Interactive layouts focused on clean UI/UX.
-* 💰 **Expense Tracker & Todo App** — Utility applications practicing JavaScript DOM manipulation and state management.
-* 🧮 **Calculator App** — Clean, logic-based web project.
+## 🌐 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ---
-### 📊 GitHub Stats & Achievements
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+⭐ Portfolio Website
+
+🧮 Calculator
+
+⏰ Analog Clock
+
+❌⭕ Tic Tac Toe
+
+📝 Todo App
+
+
+---
+
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassaan-Mahmood&theme=tokyo-night"/>
+
+</p>
+
+
+
+---
+
+# 💻 Currently Learning
+
+✔ JavaScript
+
+✔ DOM Manipulation
+
+✔ ES6
+
+✔ Git & GitHub
+
+---
+
+# 🎯 2026 Goals
+
+✅ Complete SMIT
+
+✅ Learn React
+
+✅ Learn Node.js
+
+✅ Build MERN Projects
+
+✅ Get Software House Internship
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while(!success){
+    learn();
+    build();
+    practice();
+    repeat();
+}
+```
+
+---
 
 <div align="center">
 
-  <!-- Overall GitHub Stats -->
-  <a href="https://github.com/Bilal-300527">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Mohammad Bilal's GitHub Stats" />
-  </a>
+### ⭐ Thanks for visiting my profile!
 
-  <!-- Top Used Languages -->
-  <a href="https://github.com/Bilal-300527">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=6" alt="Top Languages" />
-  </a>
+If you like my work,
 
-  <br/><br/>
+⭐ Star my repositories
 
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Bilal-300527">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-300527&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  </a>
+🤝 Follow me
 
-  <br/><br/>
-
-  <!-- Dynamic GitHub Trophies -->
-  <a href="https://github.com/Bilal-300527">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bilal-300527&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-
-</div>
-
----
-
-### 🎯 Current Goals
-
-* 🚀 Master Full Stack Web Development (MERN Stack).
-* 📱 Explore Mobile App Development with React Native.
-* 🌍 Actively contribute to open-source software.
-
----
-
-<div align="center">
-
-💡 *"Code • Learn • Build • Repeat"*
-
-⭐ *Feel free to explore my repositories and drop a star if you like my work!*
+💬 Let's build something amazing together!
 
 </div>
