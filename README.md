@@ -1,19 +1,16 @@
-<div align ="center">
-# 👋 Hi, I'm Mohammad Bilal
+ <div align="center">
 
-<div align="center">
+# 👋 Hi, I'm Mohammad Bilal
 
 ### 💻 Frontend Web Developer | Aspiring Full Stack Developer
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Building+Responsive+Websites;Learning+JavaScript+%26+React;Future+MERN+Stack+Developer;Turning+Ideas+Into+Web+Experiences" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Building+Responsive+Websites;Learning+JavaScript+%26+React;Future+MERN+Stack+Developer;Turning+Ideas+Into+Web+Experiences" alt="Typing SVG" />
 
 📍 Karachi, Pakistan
 
 <p>
   <a href="https://my-portfolio-bilal-2646.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Bilal-300527">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -69,13 +66,13 @@ Here are some of the projects I've worked on while improving my development skil
 
 | Project | Description | Live Demo |
 |---|---|---|
-| 🌐 Portfolio Website | My personal portfolio showcasing my skills and projects. | [View Portfolio]\([https://my-portfolio-bilal-2646.vercel.app/](https://my-portfolio-bilal-2646.vercel.app/)) |
-| 🧮 Calculator | A calculator built with HTML, CSS, and JavaScript. | [Live Demo]\([https://bilal-300527.github.io/Calculator/](https://bilal-300527.github.io/Calculator/)) |
-| 📝 To-Do List | A task management app to add, edit, and delete tasks. | [Live Demo]\([https://bilal-300527.github.io/To-Do-List/](https://bilal-300527.github.io/To-Do-List/)) |
-| 💰 Budget Calculator | A simple application for managing budget calculations. | [Live Demo]\([https://bilal-300527.github.io/Budget-Calculator/](https://bilal-300527.github.io/Budget-Calculator/)) |
-| 💱 Currency Converter | A currency conversion project with a focus on PKR. | [GitHub Repositories]\([https://github.com/Bilal-300527?tab=repositories](https://github.com/Bilal-300527?tab=repositories)) |
+| 🌐 Portfolio Website | My personal portfolio showcasing my skills and projects. | [View Portfolio](https://my-portfolio-bilal-2646.vercel.app/) |
+| 🧮 Calculator | A calculator built with HTML, CSS, and JavaScript. | [Live Demo](https://bilal-300527.github.io/Calculator/) |
+| 📝 To-Do List | A task management app to add, edit, and delete tasks. | [Live Demo](https://bilal-300527.github.io/To-Do-List/) |
+| 💰 Budget Calculator | A simple application for managing budget calculations. | [Live Demo](https://bilal-300527.github.io/Budget-Calculator/) |
+| 💱 Currency Converter | A currency conversion project with a focus on PKR. | [GitHub Repositories](https://github.com/Bilal-300527?tab=repositories) |
 
-🔗 **Explore more projects:** [github.com/Bilal-300527]\([https://github.com/Bilal-300527?tab=repositories](https://github.com/Bilal-300527?tab=repositories))
+🔗 **Explore more projects:** [GitHub Repositories](https://github.com/Bilal-300527?tab=repositories)
 
 ---
 
@@ -153,7 +150,9 @@ while (true) {
 
 I'm always interested in connecting with developers, learning new technologies, and working on exciting projects.
 
-<p align="center">
+<div align="center">
+
+<p>
   <a href="https://my-portfolio-bilal-2646.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -165,8 +164,6 @@ I'm always interested in connecting with developers, learning new technologies, 
   </a>
 </p>
 
-<div align="center">
-
 ### ⭐ Thanks for visiting my GitHub profile!
 
 **If you like my projects, consider giving them a ⭐**
@@ -174,4 +171,3 @@ I'm always interested in connecting with developers, learning new technologies, 
 💻 Keep Learning · Keep Building · Keep Growing 🚀
 
 </div>
-
