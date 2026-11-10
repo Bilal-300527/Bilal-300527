@@ -84,13 +84,13 @@ Here are some projects I've developed while improving my practical development s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bilal-300527&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bilal-300527&theme=tokyonight" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-300527&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bilal-300527&theme=tokyonight" alt="Most Used Languages" />
 
-<br/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Bilal-300527&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Bilal-300527&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -100,7 +100,11 @@ Here are some projects I've developed while improving my practical development s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-300527&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/2563eb/Bilal-300527" alt="GitHub Contribution Graph" />
+
+  <br/><br/>
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilal-300527&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
 
